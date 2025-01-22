@@ -36,6 +36,8 @@ image_analysis = ImageAnalysis(input_dir='test_data/', model_name='weights/sousa
 image_analysis.detect_single_image('test_data/0001_20240807_HongKong_01_0926.jpg') # Path to a single image
 ```
 
+![image](images/single_image_detection.png)
+
 2. Image Cropping with Batch Processing
 
 - To process images in batch and crop based on detected objects:
@@ -53,6 +55,8 @@ image_analysis.process_images()
 image_cluster.process_images() # Process images and categorize them into clusters
 image_cluster.display_clusters() # Display one image from each cluster
 ```
+
+![image](images/cluster_result.png)
 
 ## License
 
