@@ -1,6 +1,6 @@
 # Image Processing Pipeline with YOLO, UMAP, and KMeans
 
-This repository offers an image processing pipeline that incorporates object detection, image renaming, cropping, and clustering. It utilizes advanced techniques such as YOLO for object detection, UMAP for dimensionality reduction, and KMeans for unsupervised clustering. The current example uses pre-trained weights for Indo-Pacific humpback dolphin (_Sousa chinensis_) dorsal fins.
+This repository offers an image processing pipeline that incorporates object detection, image renaming, cropping, and clustering. It utilizes YOLO model for object detection, UMAP and KMeans for dimensionality reduction and unsupervised clustering of processed images. The current example uses pre-trained weights on dorsal fins of Indo-Pacific humpback dolphin (_Sousa chinensis_).
 
 ## Features
 
@@ -64,6 +64,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Disclaimer
 
-The clustering results might not be 100% accurate and may require human checking to ensure that the images are grouped properly.
+The clustering results require human checking to ensure that the images are grouped properly.
 
 Feel free to contribute to this project, suggest improvements, or report issues!
