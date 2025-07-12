@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Yuen-Wa
+  given-names: Ho
+orcid: https://orcid.org/0000-0003-1523-112X
+title:YuenWaHo/PhotoID-Image-Process: PhotoID image processing toolkit using YOLO model on dolphin dorsal fin images
+version: v1.0.1
+date-released: 2025-07-12
+                                
